@@ -1,0 +1,401 @@
+,COUNTRY,GENDER,AGE_GROUP,ADMIN1,AGE,URBAN/RURAL,BIGGESTCHALLENGE,LEVELCONCERN,RISKAWARENESS,TESTED,VIRUSPREVENTION,PREVENTATIVEMEASURES_AVOIDING_PUBLIC_PLACES,PREVENTATIVEMEASURES_AVOIDING_PUBLIC_TRANSPORT,PREVENTATIVEMEASURES_INCREASING_HYGIENE,PREVENTATIVEMEASURES_OTHER,PREVENTATIVEMEASURES_WORKING_FROM_HOME,ECONOMICIMPACT,GOVERNMENTTRUST,COMMERCIALTRUST_BANKS,COMMERCIALTRUST_BRANDS,COMMERCIALTRUST_OTHER,COMMERCIALTRUST_RETAILERS,COMMERCIALTRUST_TELECOMMUNCATIONS,INFORMATIONSOURCES_FRIENDS/FAMILY,INFORMATIONSOURCES_GOVERNMENT_MESSAGES,INFORMATIONSOURCES_NEWSPAPERS,INFORMATIONSOURCES_OTHER,INFORMATIONSOURCES_RADIO,INFORMATIONSOURCES_SOCIAL_MEDIA,INFORMATIONSOURCES_TV
+0,Kenya,Male,15-25,Machakos,20,Rural area,Corona,5,Yes,No,Yes,False,False,False,False,True,5,1,True,False,False,False,False,False,True,False,False,False,False,False
+1,Kenya,Male,26-35,Uasin Gishu,28,Urban area,High prices of goods,5,No,No,Yes,True,False,True,False,False,3,2,True,False,False,False,True,False,True,False,False,False,True,True
+3,Kenya,Male,26-35,Kisii,32,Rural area,The outbreak of covid-19,5,Yes,No,Yes,False,False,True,False,False,5,4,False,False,True,False,False,False,True,True,False,True,True,True
+4,Kenya,Male,15-25,Nandi,25,Rural area,no job and income due to corona pandemic,5,No,No,Yes,False,False,True,False,False,5,5,True,False,False,False,False,False,False,False,False,False,True,False
+5,Kenya,Female,26-35,Busia,26,Urban area,My biggest challenge today is finding employment,5,Yes,Yes - tested negative,Yes,True,True,True,False,False,5,2,False,False,False,False,True,False,True,False,False,False,False,True
+6,Kenya,Male,15-25,Kisii,21,Urban area,Food,4,Yes,Yes - tested negative,Yes,False,False,False,False,True,5,5,True,False,False,False,False,False,False,False,False,False,True,False
+7,Kenya,Male,26-35,Marsabit,32,Rural area,"No electricity, murram road & no television",1,Yes,No,Yes,False,False,True,False,False,1,5,False,False,False,False,True,False,False,False,False,True,False,False
+8,Kenya,Male,36+,Homa Bay,36,Rural area,Covid 19 pandemic,5,Yes,Not sure,Yes,False,False,True,False,False,4,3,False,False,False,False,True,False,False,False,False,False,False,True
+9,Kenya,Male,15-25,Kisumu,23,Urban area,None,5,No,No,Yes,True,False,False,False,False,1,3,False,False,False,False,True,False,False,False,False,True,False,False
+10,Kenya,Male,26-35,Nyeri,33,Rural area,Daily bread due to lack of wages,5,Yes,No,Yes,True,True,True,False,False,5,5,True,False,False,False,True,True,True,False,False,True,True,True
+11,Kenya,Male,26-35,Migori,30,Rural area,Corona virus panic,5,Yes,No,Yes,False,False,True,False,False,5,3,False,False,False,False,True,False,True,True,False,True,True,False
+12,Kenya,Male,15-25,Nandi,25,Urban area,It is corona virus,4,Yes,Yes - tested positive,Yes,False,False,False,False,True,4,4,False,False,False,False,True,False,False,False,False,False,False,True
+14,Kenya,Male,15-25,Kisii,23,Urban area,The economy is very poor at the moment due this pandemic,4,Yes,Yes - tested positive,Yes,True,False,False,False,False,4,1,True,False,False,False,False,False,False,False,False,False,True,True
+15,Kenya,Female,26-35,Bungoma,31,Rural area,Lack of capital to purchase sanitizers,5,Yes,No,Yes,True,False,False,False,False,5,1,False,False,False,False,True,False,False,False,False,False,True,False
+16,Kenya,Male,26-35,Trans Nzoia,29,Rural area,Inadequate food,5,Yes,No,Yes,False,False,False,False,True,5,2,True,False,False,False,False,False,False,False,False,False,True,False
+17,Kenya,Male,26-35,Kiambu,26,Urban area,Corona,5,Yes,No,Yes,False,False,False,False,True,5,5,False,False,False,False,True,False,False,False,False,False,False,True
+18,Kenya,Male,15-25,Trans Nzoia,20,Rural area,Staying indoors,4,Yes,Yes - tested negative,Yes,True,True,True,False,True,4,2,True,False,False,True,False,True,True,False,False,False,True,True
+19,Kenya,Male,26-35,Migori,33,Urban area,Lack of job,5,Yes,No,Yes,False,False,True,False,False,5,3,True,True,False,True,True,True,True,True,False,True,True,True
+22,Kenya,Male,15-25,Tharaka-Nithi,22,Urban area,Lack of finance,5,Yes,No,Yes,False,False,True,False,False,5,3,False,False,False,False,True,False,False,False,False,False,True,False
+30,Kenya,Male,15-25,Narok,24,Rural area,Corona virus,4,Yes,No,Yes,False,False,True,False,False,4,2,False,False,True,False,False,False,False,False,False,True,False,False
+39,Kenya,Male,15-25,Nyamira,25,Urban area,My sanitizer is over ineed to get some for my family,5,Yes,No,Yes,False,False,True,False,False,5,5,False,False,False,True,False,False,False,False,False,True,False,False
+40,Kenya,Female,36+,Kisii,43,Rural area,Power blackout,5,Yes,Yes - tested positive,Yes,False,False,True,False,False,3,5,True,False,False,False,False,False,False,False,False,False,False,True
+42,Kenya,Female,36+,Kwale,43,Rural area,Food,3,No,No,No,False,False,False,False,False,3,3,False,False,False,False,True,True,False,False,False,False,False,False
+43,Kenya,Female,15-25,Nairobi,20,Rural area,Diseases,1,No,Yes - tested negative,Yes,False,False,True,False,False,5,1,False,False,False,False,True,False,False,False,False,True,False,False
+47,Kenya,Male,36+,Vihiga,49,Rural area,Corona virus,5,No,No,Yes,False,False,True,False,False,5,5,False,True,False,False,False,False,False,False,False,False,False,True
+50,Kenya,Female,15-25,Isiolo,22,Rural area,Afraid of corona virus,5,Yes,Yes - tested negative,Yes,True,False,False,False,False,5,2,False,False,False,True,False,False,False,False,False,False,False,True
+51,Kenya,Male,15-25,Turkana,25,Urban area,My challenge is getting food due to corona virus because of lack of money,5,No,No,Yes,False,False,True,False,False,5,1,False,False,False,True,False,False,False,False,False,True,False,False
+52,Kenya,Male,36+,Mombasa,36,Urban area,I didn't achieve what I wanted to achieve today,5,No,Not sure,Yes,True,False,False,False,False,5,3,True,False,False,False,False,False,False,False,False,False,True,False
+53,Kenya,Female,36+,Kajiado,70,Urban area,Credit,5,Yes,No,Yes,False,False,False,False,True,5,5,False,False,True,False,False,False,True,False,False,False,False,False
+54,Kenya,Male,26-35,Nakuru,30,Urban area,Unemployment,5,No,No,Yes,False,False,True,False,False,5,1,False,False,False,True,False,False,False,False,False,False,False,True
+55,Kenya,Male,36+,Kilifi,43,Urban area,Moving from one place to another to get important services,5,Yes,Yes - tested positive,Yes,True,False,False,False,False,5,1,True,False,False,False,False,False,False,False,False,False,False,True
+56,Kenya,Female,36+,Marsabit,57,Rural area,Money,4,Yes,No,Yes,True,False,False,False,False,4,1,False,False,False,False,True,False,False,False,False,True,False,False
+74,Kenya,Male,26-35,Nandi,29,Rural area,Food stuff,3,No,No,Yes,False,False,True,False,False,2,3,True,False,False,False,False,False,False,False,False,False,False,True
+82,Kenya,Female,36+,Kakamega,56,Rural area,Poor road network,5,Yes,Yes - tested positive,Yes,True,True,True,False,True,5,3,True,False,False,False,True,False,True,False,False,False,True,True
+89,Kenya,Male,15-25,Nyeri,25,Urban area,Catering for my basic needs,5,Yes,No,Yes,True,False,True,False,False,5,3,True,False,False,False,True,True,False,False,False,True,True,True
+111,Kenya,Male,26-35,Kitui,26,Rural area,No power,3,No,No,Yes,True,False,False,False,False,1,2,False,False,True,False,False,False,False,False,False,True,False,False
+119,Kenya,Male,36+,Kiambu,39,Rural area,Traueling,5,Yes,Yes - tested negative,Yes,False,False,False,False,True,3,2,False,False,False,True,False,False,False,False,False,True,False,False
+120,Kenya,Male,36+,Laikipia,40,Rural area,Covid19,5,No,No,Yes,False,False,True,False,False,1,5,False,False,False,False,True,False,False,False,False,False,True,False
+128,Kenya,Female,36+,Kwale,56,Urban area,Yes,1,Yes,Not sure,Yes,False,False,False,False,True,1,1,False,False,False,False,True,False,False,False,False,True,False,False
+150,Kenya,Female,36+,Kakamega,41,Rural area,"Money,i Don't Have It",5,Yes,No,Yes,False,False,True,False,False,1,2,False,False,True,False,False,False,False,False,False,True,False,False
+172,Kenya,Female,36+,Kisumu,51,Rural area,The biggest challenges which I face now or today is about livelihood due to this Covid-19 I can't even get three meals daily as needed.,5,Yes,No,Yes,False,False,True,False,False,1,5,False,False,True,False,False,True,False,False,False,False,False,False
+203,Kenya,Female,26-35,Nairobi,30,Urban area,Corona virus,4,Yes,Yes - tested negative,Yes,False,False,False,False,True,4,3,False,False,True,False,False,False,False,False,False,False,False,True
+211,Kenya,Male,36+,Migori,54,Rural area,Spread of covid 19,5,Yes,Not sure,Yes,False,False,False,True,False,2,3,False,False,True,False,False,False,False,False,False,False,False,True
+241,Kenya,Male,26-35,Narok,27,Urban area,Covid 19 outbreak that affect our nation,1,Yes,No,Yes,True,False,False,False,False,5,5,False,False,True,False,False,False,False,False,False,True,False,False
+306,Kenya,Male,36+,Mombasa,39,Urban area,Economy,5,Yes,No,Yes,False,False,False,False,True,5,1,False,False,False,False,True,False,False,False,False,False,True,False
+316,Kenya,Female,26-35,Samburu,26,Rural area,Meeting my target,4,No,No,Yes,False,False,True,False,False,5,2,False,False,False,False,True,False,False,False,False,False,True,False
+335,Kenya,Male,26-35,Narok,26,Rural area,Finance,3,Yes,No,Yes,True,False,False,False,False,2,2,False,False,False,False,True,False,False,False,False,False,True,False
+364,Kenya,Male,15-25,Tharaka-Nithi,24,Rural area,Unemployment,5,Yes,No,Yes,True,False,False,False,False,5,1,False,False,True,False,False,False,False,False,False,True,False,False
+391,Kenya,Female,15-25,Busia,25,Rural area,Finance,5,Yes,Yes - tested positive,Yes,True,False,False,False,False,5,2,False,False,False,True,False,False,True,False,False,False,True,True
+400,Kenya,Female,36+,Kirinyaga,43,Rural area,Food,5,Yes,No,Yes,False,False,True,False,False,5,1,False,True,False,False,False,False,False,False,False,False,True,False
+428,Kenya,Female,26-35,Turkana,26,Rural area,Travelling is hard because we don't have face mask to protect ourselves from corona virus,5,Yes,No,Yes,False,False,True,False,False,5,1,False,False,False,True,False,False,False,False,False,False,True,False
+438,Kenya,Female,15-25,Nairobi,23,Urban area,Water,3,Yes,No,Yes,False,False,True,False,True,5,2,False,False,False,True,False,True,True,True,False,True,True,True
+469,Kenya,Male,15-25,Baringo,25,Urban area,"staying indoor without food,  no jobs, no source of money worst day ever",5,Yes,No,Yes,False,False,False,True,False,5,2,False,True,False,False,False,False,False,False,False,False,False,True
+471,Kenya,Male,36+,Bungoma,42,Rural area,Low income,3,Yes,No,Yes,False,False,True,False,False,5,3,False,False,False,False,True,False,False,False,False,False,True,False
+490,Kenya,Male,36+,Bungoma,51,Rural area,"Source of income,given that am just confined in home, due to the corona pandemic.",5,Yes,Not sure,Yes,False,False,False,False,True,5,5,False,False,False,True,False,False,False,True,False,False,False,False
+513,Kenya,Female,36+,Nairobi,42,Urban area,Fear of Corona virus,5,No,No,Yes,False,False,True,False,False,5,1,True,False,False,False,False,False,True,False,False,False,False,True
+612,Kenya,Female,36+,Machakos,45,Urban area,"It's about corona,",5,Yes,No,Yes,False,False,True,False,False,3,5,False,False,False,True,False,False,False,False,False,False,False,True
+672,Kenya,Female,15-25,Uasin Gishu,22,Rural area,Going to the farm,5,Yes,No,Yes,False,False,True,False,False,5,5,True,False,False,False,False,False,True,False,False,True,False,False
+696,Kenya,Female,15-25,Nairobi,24,Urban area,Moving around the estate with fear of Corona Virus,5,Yes,No,Yes,True,False,False,False,False,5,5,False,False,False,False,True,False,True,False,False,False,False,False
+702,Kenya,Female,15-25,Taita-Taveta,21,Rural area,Income,5,Yes,Not sure,Yes,True,False,False,False,False,5,5,False,False,False,True,False,False,False,False,False,True,False,False
+710,Kenya,Female,36+,Kajiado,45,Urban area,luck of money,3,Yes,No,Yes,False,False,True,False,False,4,3,True,False,False,False,False,False,False,False,False,True,False,False
+739,Kenya,Female,15-25,Bungoma,24,Rural area,Finance,5,No,No,No,False,False,False,False,False,1,5,False,False,False,False,True,False,False,False,False,True,False,False
+756,Kenya,Female,15-25,Bungoma,25,Urban area,Employment,2,No,No,Yes,True,False,False,False,True,1,2,False,False,False,True,False,False,True,True,False,False,True,True
+757,Kenya,Female,26-35,Kiambu,33,Urban area,Getting food especially during this time,5,Yes,Not sure,Yes,True,False,True,False,False,5,1,True,False,False,False,True,True,True,False,False,False,True,True
+759,Kenya,Female,15-25,Kisumu,25,Urban area,The curfew,5,No,No,Yes,True,True,True,False,True,5,3,True,False,False,False,False,False,False,False,False,True,True,True
+760,Kenya,Male,15-25,Murang'a,22,Urban area,Finances,4,Yes,No,Yes,True,True,True,False,True,5,3,False,False,True,False,True,False,True,True,False,False,True,True
+761,Kenya,Male,26-35,Kericho,29,Urban area,Lack of access to food and water,5,Yes,No,Yes,True,True,True,False,True,5,2,True,False,False,True,True,False,True,False,False,False,True,False
+762,Kenya,Female,26-35,Garissa,28,Urban area,Shortage of water,5,Yes,Yes - tested negative,Yes,False,False,False,False,True,2,2,False,False,False,True,False,False,False,False,False,True,False,False
+763,Kenya,Female,26-35,Bungoma,32,Rural area,Lack of sanitizer,5,Yes,No,Yes,True,True,True,False,True,5,1,True,True,False,False,True,True,False,False,False,True,True,True
+765,Kenya,Male,26-35,Kakamega,29,Urban area,Staying in house,5,Yes,No,Yes,False,False,False,False,True,5,3,True,False,False,False,False,False,False,False,False,False,False,True
+766,Kenya,Male,26-35,Marsabit,29,Urban area,Water and security,3,No,No,Yes,False,False,True,False,False,5,3,False,False,True,False,False,False,False,False,False,False,False,True
+767,Kenya,Male,26-35,Taita-Taveta,27,Rural area,Corona virus and transport,5,Yes,No,Yes,False,False,False,False,True,5,3,True,False,False,False,False,False,False,False,True,False,False,False
+769,Kenya,Female,26-35,Bomet,31,Urban area,Corrupt government and unemployment,5,Yes,No,Yes,True,True,True,False,False,5,5,False,False,False,False,True,False,True,False,False,False,False,True
+770,Kenya,Female,26-35,Kericho,30,Urban area,Going to town to do shopping,4,Yes,No,Yes,False,False,True,False,False,5,3,False,False,False,True,False,True,True,False,False,False,True,True
+771,Kenya,Female,15-25,Baringo,25,Rural area,Employment,3,Yes,No,Yes,True,False,True,False,True,3,3,True,False,False,False,True,False,True,False,False,False,False,False
+772,Kenya,Male,15-25,Kiambu,25,Urban area,Dealing with the increase in price of commodities in the country,5,No,No,Yes,False,False,True,False,False,5,2,True,False,False,True,True,True,True,False,False,True,True,True
+773,Kenya,Male,15-25,Mandera,23,Rural area,Lack of water,3,Yes,Yes - tested positive,Yes,True,False,False,False,False,3,2,True,False,False,False,True,False,False,False,False,False,True,False
+774,Kenya,Female,36+,Nairobi,39,Urban area,Corona,5,Yes,No,Yes,True,True,True,False,True,5,2,False,False,False,False,True,False,True,False,False,False,True,True
+776,Kenya,Female,26-35,Kilifi,29,Urban area,Free movement,5,Yes,No,Yes,True,True,True,False,True,5,2,True,True,False,True,True,True,True,False,False,True,True,True
+778,Kenya,Male,15-25,Kisii,23,Rural area,Corona virus challenge,1,No,No,Yes,True,False,False,False,False,1,5,False,False,True,False,False,False,False,False,False,False,False,True
+779,Kenya,Male,15-25,Kericho,24,Urban area,Water shortage,5,Yes,No,Yes,True,True,True,False,False,5,4,False,False,False,True,False,True,True,True,False,True,True,True
+780,Kenya,Male,36+,Nyamira,39,Urban area,Covid19,5,Yes,No,Yes,True,True,True,False,True,5,5,True,True,False,False,True,True,True,True,False,True,True,True
+781,Kenya,Male,26-35,Trans Nzoia,26,Urban area,Internet connection,3,Yes,No,Yes,True,False,False,False,False,3,3,True,False,False,False,False,False,True,False,False,False,False,False
+782,Kenya,Male,15-25,Bomet,24,Rural area,Food source,5,Yes,Not sure,Yes,True,True,True,False,False,5,3,False,False,False,True,False,False,False,False,False,True,False,False
+783,Kenya,Male,15-25,Nyeri,25,Rural area,Corona virus,5,Yes,No,Yes,True,True,True,False,False,5,3,True,False,False,True,True,False,True,False,False,True,True,True
+784,Kenya,Female,15-25,Narok,24,Rural area,lack of electricity,5,Yes,No,Yes,True,False,False,False,False,5,1,True,False,False,False,False,True,True,False,False,False,True,True
+785,Kenya,Female,15-25,Kiambu,22,Urban area,Getting food and getting home before curfew time,5,Yes,No,Yes,True,False,True,True,False,5,3,True,False,True,True,False,True,True,False,False,True,True,True
+786,Kenya,Male,15-25,West Pokot,24,Rural area,Water for home use,5,No,No,Yes,True,True,True,False,True,4,1,True,False,False,False,False,False,False,False,False,True,True,False
+787,Kenya,Male,15-25,Murang'a,20,Rural area,Food,5,No,No,Yes,False,False,False,False,True,5,1,True,False,False,False,False,False,False,False,False,False,False,True
+788,Kenya,Female,15-25,Nakuru,24,Urban area,Finding a job,5,No,No,Yes,True,True,False,False,True,3,5,False,False,False,True,True,False,True,False,False,False,True,True
+789,Kenya,Male,15-25,Nakuru,23,Rural area,How to curb the corona challenge,4,Yes,No,Yes,True,True,True,False,False,4,2,False,False,True,False,False,False,False,False,False,False,True,True
+791,Kenya,Male,15-25,Nakuru,23,Urban area,Hiking of fare,5,No,Yes - tested negative,Yes,False,False,True,False,True,4,3,True,False,False,True,False,False,False,True,False,True,False,True
+792,Kenya,Male,15-25,Wajir,22,Urban area,Being indoors so I can't do some of my tasks,4,Yes,No,Yes,True,False,True,False,True,5,3,True,False,False,False,True,False,True,False,False,False,False,False
+793,Kenya,Female,15-25,Meru,22,Urban area,Corona,5,Yes,No,Yes,False,False,True,False,False,5,5,False,False,True,False,False,False,False,False,False,False,False,True
+794,Kenya,Female,15-25,Nairobi,25,Urban area,The situation in the country right now.,5,Yes,No,Yes,True,False,True,True,True,5,2,False,False,False,False,True,False,True,False,False,False,True,True
+795,Kenya,Male,26-35,Siaya,30,Urban area,Rent,5,No,No,Yes,True,False,True,False,True,5,1,False,False,False,False,True,False,True,False,False,True,True,True
+796,Kenya,Male,15-25,Kisumu,24,Urban area,Getting a job,5,No,No,Yes,True,False,False,False,False,5,1,False,False,False,True,False,True,True,True,False,True,False,True
+797,Kenya,Male,26-35,Uasin Gishu,27,Urban area,Earning a living,5,Yes,No,Yes,True,True,True,False,True,5,3,True,False,False,False,False,False,True,False,False,True,True,True
+799,Kenya,Male,26-35,Trans Nzoia,27,Rural area,Going to work due to the Covid-19 Crisis,5,Yes,No,Yes,True,True,True,True,True,5,2,False,True,True,True,True,False,True,False,True,False,True,True
+800,Kenya,Male,26-35,Kilifi,31,Urban area,Corona virus i cant go to work,4,Yes,Yes - tested positive,Yes,True,False,False,False,False,5,2,True,False,False,False,False,False,False,False,False,False,False,True
+801,Kenya,Female,15-25,Nakuru,24,Urban area,sickness,5,Yes,No,Yes,False,False,False,False,True,5,1,False,False,True,False,False,False,False,False,False,False,True,False
+802,Kenya,Female,15-25,Nakuru,23,Urban area,Maintaining social distance,5,No,No,Yes,True,False,True,False,False,5,1,False,False,False,True,True,False,False,True,False,False,True,True
+804,Kenya,Male,15-25,Kisumu,24,Urban area,Corona virus outbreak,5,Yes,Yes - tested negative,Yes,True,True,True,False,True,5,3,True,False,False,False,False,True,True,True,False,True,True,True
+805,Kenya,Male,26-35,Vihiga,31,Rural area,Corrona virus,3,Yes,No,Yes,True,False,False,False,False,3,2,False,False,False,True,False,False,False,False,False,True,True,False
+806,Kenya,Female,26-35,Murang'a,31,Rural area,Lack of enough water for farming and domestic use,5,Yes,No,Yes,True,False,True,False,True,5,2,False,False,True,False,False,False,False,False,False,True,False,True
+807,Kenya,Male,26-35,Kitui,30,Urban area,Covid-19,5,Yes,Yes - tested positive,Yes,True,True,True,False,True,5,2,True,False,False,True,False,False,False,False,False,True,True,True
+808,Kenya,Female,36+,Mombasa,38,Urban area,Finance,5,Yes,Yes - tested positive,Yes,False,False,True,False,True,5,5,True,False,False,True,False,False,True,False,False,False,True,True
+809,Kenya,Female,15-25,Homa Bay,24,Rural area,Travelling,5,No,No,Yes,True,True,True,False,True,5,5,True,True,False,True,True,True,True,True,False,True,True,True
+810,Kenya,Male,26-35,Tana River,32,Urban area,Access to normal household utilities,5,Yes,No,Yes,True,True,True,False,True,5,3,True,True,False,True,True,False,True,False,False,False,True,True
+811,Kenya,Male,15-25,Kisii,21,Urban area,Food,5,Yes,No,Yes,True,False,True,False,False,5,5,False,True,False,False,False,False,False,False,False,True,True,True
+812,Kenya,Male,36+,Isiolo,39,Rural area,To have access to clean water,1,Yes,Not sure,Yes,True,False,True,True,False,1,3,True,False,False,True,False,False,False,False,False,True,True,False
+813,Kenya,Female,26-35,Trans Nzoia,31,Rural area,Lack of money,5,Yes,Yes - tested negative,Yes,True,False,True,False,False,5,5,True,False,False,False,False,False,False,False,False,False,False,True
+814,Kenya,Female,26-35,Nakuru,33,Urban area,Employment,4,Yes,No,Yes,False,False,True,False,True,4,3,False,True,False,False,True,True,True,False,False,True,True,True
+816,Kenya,Female,26-35,Bungoma,33,Urban area,Corona Virus pandemic,5,Yes,No,Yes,False,False,True,False,False,2,5,True,False,False,False,False,False,False,False,False,False,False,True
+817,Kenya,Female,15-25,Nairobi,23,Urban area,How to keep off from corona virus,5,Yes,No,Yes,True,False,True,False,True,5,5,True,False,False,False,True,True,True,True,False,True,True,True
+818,Kenya,Female,26-35,Nakuru,30,Urban area,COVID-19 Pandemic,5,Yes,Yes - tested negative,Yes,True,False,True,False,True,5,3,False,False,False,False,True,False,True,False,False,True,False,True
+819,Kenya,Female,15-25,Machakos,25,Urban area,Lack of money,3,Yes,Yes - tested negative,Yes,True,False,False,False,False,4,3,False,False,True,False,False,False,False,False,False,True,False,False
+820,Kenya,Male,15-25,Laikipia,25,Rural area,Business reduce...no profits,5,No,Not sure,Yes,True,False,True,False,False,5,4,True,False,False,False,True,False,True,True,False,True,False,True
+821,Kenya,Male,15-25,Migori,22,Rural area,Covid-19,5,Yes,No,Yes,True,False,False,False,False,5,2,False,False,False,True,False,False,False,False,False,True,True,False
+823,Kenya,Female,15-25,Siaya,22,Urban area,Transportation,4,Yes,No,Yes,True,True,True,False,False,4,1,False,False,False,True,False,True,False,False,False,True,True,True
+824,Kenya,Male,15-25,Nakuru,23,Urban area,Transport,1,Yes,Yes - tested negative,Yes,False,False,False,False,True,1,1,False,False,False,True,False,False,True,False,False,False,False,True
+825,Kenya,Male,26-35,Kisii,34,Urban area,Getting food from market since markets are closed completely,5,Yes,No,Yes,True,True,True,False,False,5,2,False,False,False,False,True,False,True,False,False,True,True,True
+826,Kenya,Female,15-25,Kirinyaga,25,Urban area,Access to preventive materials against corana virus,5,Yes,No,Yes,True,True,True,False,True,4,1,True,False,False,True,True,True,True,False,False,False,True,True
+827,Kenya,Female,26-35,Kericho,29,Rural area,Corona virus,5,Yes,No,Yes,False,False,True,False,False,5,1,True,False,False,False,False,False,False,False,False,False,False,True
+828,Kenya,Female,15-25,Nairobi,25,Urban area,Unemployment,5,Yes,No,Yes,True,True,True,True,False,5,3,True,True,False,False,True,True,True,False,False,True,True,True
+829,Kenya,Male,26-35,Uasin Gishu,27,Rural area,Food security,5,Yes,No,Yes,True,False,False,False,False,5,3,True,True,False,False,True,False,False,False,False,False,False,True
+830,Kenya,Female,26-35,Migori,35,Urban area,Not being able to get home early,5,Yes,No,Yes,False,False,True,False,False,5,5,False,False,False,False,True,True,True,True,False,True,True,True
+832,Kenya,Female,36+,Meru,38,Rural area,Basic needs especially food,4,Yes,No,Yes,True,False,True,False,False,4,2,True,False,False,False,True,False,False,False,False,False,True,True
+834,Kenya,Female,26-35,Meru,26,Rural area,walking to work,1,Yes,Yes - tested negative,Yes,False,False,True,False,False,1,1,False,False,True,False,False,False,False,False,False,False,True,False
+835,Kenya,Female,36+,Kilifi,37,Urban area,How people are not taking serious on advise given to avoid contracting covid 19,5,Yes,Yes - tested positive,Yes,True,True,True,False,True,5,3,True,True,False,True,True,True,True,True,False,True,True,True
+836,Kenya,Female,15-25,Kajiado,25,Urban area,Surviving during this corona virus period.,5,Yes,No,Yes,True,False,True,True,True,5,3,True,False,False,True,False,True,True,False,False,False,True,False
+837,Kenya,Male,15-25,Nakuru,23,Rural area,hot sun,4,No,Yes - tested negative,Yes,False,False,True,False,False,4,1,True,False,False,False,True,False,False,False,False,True,False,False
+838,Kenya,Male,15-25,Turkana,22,Urban area,Staying at home not doing any job,5,No,No,Yes,False,True,True,False,True,5,3,False,False,False,False,True,False,True,False,False,False,False,True
+839,Kenya,Female,36+,Kakamega,37,Rural area,Corona virus,5,Yes,No,Yes,False,False,True,False,False,5,4,True,False,False,False,False,False,False,False,True,True,False,True
+840,Kenya,Male,15-25,Baringo,21,Urban area,Money,3,Yes,Yes - tested negative,Yes,False,False,True,False,False,3,4,True,False,False,False,False,False,False,False,False,False,True,False
+841,Kenya,Female,15-25,Bomet,25,Rural area,Unemployment,5,Yes,No,Yes,True,False,True,False,False,5,4,True,False,False,True,True,False,False,False,False,False,True,True
+844,Kenya,Female,15-25,Migori,23,Urban area,The cost of living gone so due to the coronavirus pandemic,5,Yes,No,Yes,True,True,True,False,True,5,1,True,False,False,False,True,False,True,False,False,True,True,True
+845,Kenya,Female,26-35,Vihiga,26,Rural area,Finance,5,Yes,No,Yes,True,False,True,False,False,5,2,True,False,False,True,True,True,True,False,False,True,True,False
+847,Kenya,Male,26-35,Kericho,29,Rural area,water access,3,Yes,No,Yes,True,True,False,False,False,2,2,False,False,True,False,False,True,False,False,False,False,True,False
+850,Kenya,Male,15-25,Nandi,25,Rural area,Covid-19,3,Yes,Yes - tested positive,Yes,True,False,False,False,False,4,4,True,False,False,False,False,False,False,False,False,True,True,False
+852,Kenya,Female,15-25,Murang'a,22,Rural area,Electricity power outrages,5,Yes,No,Yes,True,True,True,False,True,5,3,False,False,False,False,True,True,True,True,False,True,True,True
+853,Kenya,Male,15-25,Nakuru,25,Urban area,Poor transport facilities,4,Yes,No,Yes,False,False,True,False,True,4,4,True,False,False,True,False,False,False,False,False,False,True,True
+855,Kenya,Male,15-25,Mombasa,24,Urban area,Food,5,Yes,No,Yes,True,False,False,False,False,5,1,True,False,False,False,False,False,False,False,False,True,False,False
+856,Kenya,Male,15-25,Mandera,20,Urban area,Outburst of covid-19 in the country,5,No,Yes - tested positive,Yes,True,True,True,False,True,5,5,True,True,False,True,True,True,True,True,False,True,True,True
+858,Kenya,Male,15-25,Kirinyaga,22,Rural area,Biggest challenge today is lack of enough money,5,Yes,No,Yes,False,False,True,False,False,5,5,True,False,False,False,True,False,False,True,False,False,True,True
+860,Kenya,Female,26-35,Uasin Gishu,29,Urban area,Corona virus,5,Yes,No,Yes,True,True,False,False,False,5,1,True,False,False,True,True,False,True,False,False,True,True,False
+861,Kenya,Female,36+,Baringo,36,Urban area,Going out for shopping,5,No,No,Yes,True,False,False,False,False,5,4,True,False,False,True,True,True,True,False,False,True,True,True
+864,Kenya,Female,15-25,Mombasa,25,Urban area,Interacting with my collegues due to pedemic outbreak,3,No,No,Yes,True,False,False,False,False,3,3,False,False,False,True,False,False,True,True,False,True,True,True
+865,Kenya,Female,26-35,Kajiado,35,Urban area,Roads are unworthy,3,Yes,Yes - tested negative,Yes,True,False,False,False,False,4,4,False,True,False,False,False,False,True,True,False,False,False,True
+868,Kenya,Male,26-35,Siaya,29,Urban area,Fear of contracting covid-19,5,Yes,No,Yes,True,False,False,False,False,5,1,False,False,False,False,True,False,True,False,False,False,True,True
+869,Kenya,Male,26-35,Kitui,26,Rural area,Accessing health facilities,5,Yes,Yes - tested negative,Yes,True,False,False,False,False,5,1,False,True,False,False,False,False,False,False,False,True,False,False
+870,Kenya,Male,26-35,West Pokot,27,Urban area,Finance,5,Yes,Yes - tested negative,Yes,True,False,False,False,False,5,5,False,False,True,False,False,False,False,False,False,False,False,True
+871,Kenya,Male,15-25,Nandi,25,Rural area,Money,5,Yes,No,Yes,True,False,False,False,False,5,4,True,False,False,False,False,False,False,False,False,True,False,False
+872,Kenya,Male,36+,Busia,45,Rural area,Fear of the corona virus,5,Yes,No,Yes,False,False,True,False,True,5,3,True,False,False,False,True,False,False,False,False,False,True,True
+873,Kenya,Female,36+,Kiambu,39,Rural area,Lack of job opportunities opportunities,3,Yes,No,No,False,False,False,False,False,3,2,True,True,False,False,True,False,True,False,True,True,False,True
+874,Kenya,Male,15-25,Uasin Gishu,23,Urban area,lack of money & electric,5,Yes,Yes - tested positive,Yes,False,False,True,False,False,5,2,True,False,False,False,False,False,False,False,False,True,False,True
+875,Kenya,Female,26-35,Machakos,27,Urban area,where to pu,5,Yes,No,Yes,True,True,True,False,False,5,5,True,False,False,True,True,False,True,True,False,True,False,True
+876,Kenya,Female,26-35,Kisii,26,Rural area,Food for my siblings,5,Yes,No,Yes,True,False,False,False,False,5,3,False,False,False,False,True,False,False,False,False,True,False,False
+878,Kenya,Female,15-25,Nairobi,23,Urban area,Corona virus,5,Yes,No,Yes,True,True,True,False,False,4,3,True,False,False,False,True,False,True,False,False,False,False,True
+880,Kenya,Female,26-35,Bungoma,28,Rural area,Lack off essential services,5,Yes,Yes - tested positive,Yes,False,False,False,False,True,5,3,True,False,False,False,False,False,False,False,False,True,False,True
+881,Kenya,Male,15-25,Meru,25,Urban area,Covid_19,5,Yes,No,Yes,False,False,True,False,False,5,2,False,False,False,False,True,False,False,False,False,True,True,True
+882,Kenya,Female,15-25,Nairobi,25,Urban area,Unable to identify who has the virus,5,Yes,No,Yes,True,False,True,False,True,5,1,True,False,False,False,True,False,True,True,False,True,False,False
+883,Kenya,Female,15-25,Nairobi,24,Urban area,Maintaining social distance even with relatives,5,Yes,Yes - tested negative,Yes,False,False,False,False,True,5,3,True,False,False,True,True,False,True,True,False,True,False,True
+884,Kenya,Female,36+,Kitui,47,Rural area,Financial strain,5,Yes,No,Yes,True,False,False,False,False,5,3,False,False,False,False,True,False,False,False,False,False,False,True
+886,Kenya,Male,26-35,Tharaka-Nithi,27,Rural area,Lack of adequate food,5,Yes,No,Yes,True,True,True,False,False,5,4,True,False,False,False,True,True,True,True,False,True,True,True
+887,Kenya,Female,15-25,Nyeri,24,Urban area,lack of electricity,4,No,No,Yes,True,False,True,False,False,4,2,False,False,False,False,True,False,False,False,False,True,True,True
+888,Kenya,Male,15-25,Nyeri,25,Rural area,Movement and undertaking business,5,No,Yes - tested negative,Yes,True,False,True,False,False,5,1,True,False,False,False,False,False,True,False,False,False,True,False
+889,Kenya,Male,15-25,Kitui,25,Urban area,Electricity,5,Yes,No,Yes,True,False,True,False,False,5,2,True,False,False,False,True,True,False,False,False,True,True,False
+892,Kenya,Female,36+,Kakamega,44,Rural area,Is how to get food is a problem because business is down bcz of stay at home (corona),5,Yes,Yes - tested positive,Yes,True,False,False,False,False,5,5,True,False,False,False,False,False,False,False,False,False,True,False
+893,Kenya,Male,15-25,Kakamega,23,Urban area,Corona virus,5,No,Yes - tested positive,Yes,False,False,True,False,False,4,5,True,False,False,False,False,False,False,False,False,False,False,True
+895,Kenya,Male,26-35,Kiambu,27,Urban area,COVID-19 and HUNGER,5,Yes,No,Yes,True,False,False,False,False,5,3,True,False,False,False,False,False,False,False,False,False,True,False
+896,Kenya,Female,26-35,Nakuru,26,Urban area,Water,4,No,No,Yes,True,True,True,False,True,3,4,True,False,False,False,True,False,True,False,False,False,False,True
+900,Kenya,Female,15-25,Kiambu,21,Rural area,Corona virus effects,4,No,No,Yes,True,False,True,False,True,5,4,True,False,False,False,False,False,True,False,False,True,True,True
+901,Kenya,Male,26-35,West Pokot,28,Urban area,Going to Work,5,Yes,No,Yes,False,False,False,False,True,5,4,False,False,False,True,False,False,False,False,False,True,True,True
+904,Kenya,Male,15-25,West Pokot,24,Rural area,Transportation,5,Yes,Yes - tested negative,Yes,False,False,True,False,False,5,3,True,False,False,False,False,False,True,False,False,True,True,True
+910,Kenya,Female,36+,Nairobi,49,Urban area,Social gathering,5,Yes,No,Yes,False,False,True,False,False,5,5,False,False,False,True,False,False,False,False,False,False,True,False
+912,Kenya,Male,26-35,Kilifi,28,Urban area,Surviving  without working during this Corona virus pandemic,5,Yes,Not sure,Yes,True,True,True,False,False,5,1,True,False,False,True,False,False,True,False,False,False,True,True
+913,Kenya,Female,15-25,Kajiado,25,Urban area,coping with COVID 19,5,Yes,No,Yes,True,False,False,False,False,5,5,False,False,False,True,False,False,False,False,False,False,False,True
+914,Kenya,Male,15-25,Murang'a,22,Rural area,Unemployment,1,No,No,Yes,True,False,False,False,False,1,5,False,False,False,False,True,False,False,False,False,False,True,False
+915,Kenya,Female,26-35,Nakuru,28,Urban area,Access to more income streams,5,Yes,Yes - tested positive,Yes,False,False,True,False,False,5,1,True,False,False,False,False,False,False,False,False,False,True,False
+916,Kenya,Female,26-35,Homa Bay,26,Rural area,Means of transport,4,Yes,Yes - tested positive,Yes,False,False,True,False,True,5,3,False,False,False,False,True,True,False,False,False,True,True,False
+917,Kenya,Female,15-25,Nairobi,22,Urban area,Staying at home,5,Yes,No,Yes,True,True,True,False,True,5,3,False,False,False,False,True,False,True,False,False,False,False,False
+918,Kenya,Male,26-35,Makueni,34,Urban area,Engaging a client who was not so keen with social distancing,5,Yes,No,Yes,True,True,True,False,False,5,3,True,False,False,True,True,True,True,True,False,True,True,True
+919,Kenya,Female,15-25,Nairobi,25,Urban area,Money to pay house rent,5,Yes,No,Yes,True,False,False,False,False,5,5,True,False,False,False,True,False,False,False,False,False,True,True
+925,Kenya,Female,15-25,Nairobi,22,Urban area,Corona Virus pandemic,5,Yes,No,Yes,True,True,True,False,True,5,4,False,False,False,True,False,False,False,True,False,True,True,True
+934,Kenya,Male,36+,Homa Bay,53,Urban area,Anxiety over covid-19 pandemic outbreak,5,Yes,No,Yes,False,True,True,False,False,5,5,True,False,True,True,False,False,True,False,False,True,True,False
+935,Kenya,Female,15-25,Nairobi,23,Urban area,Closure of job due to Corona virus,5,Yes,No,Yes,True,True,True,False,True,5,1,True,True,False,False,True,True,True,False,False,True,True,True
+936,Kenya,Female,15-25,Nairobi,21,Urban area,The convid 19,5,Yes,No,Yes,True,False,True,False,False,5,5,False,False,False,False,True,False,True,False,False,False,False,False
+937,Kenya,Male,36+,Homa Bay,45,Urban area,Money,5,Yes,No,Yes,True,False,False,False,False,5,5,False,False,False,False,True,False,False,False,False,True,False,False
+939,Kenya,Male,15-25,Nandi,24,Urban area,Spread of pandemic covid-19 affecting businesses,5,Yes,No,Yes,False,False,False,False,True,5,3,False,False,False,False,True,True,True,True,False,True,True,True
+940,Kenya,Male,15-25,Samburu,21,Urban area,Lack Of Money To Quarantine Myself During This Season Of Corona Virus,5,Yes,No,Yes,True,False,False,False,False,5,3,False,False,False,False,True,False,False,False,False,True,False,False
+942,Kenya,Male,26-35,Elgeyo-Marakwet,29,Rural area,Being jobless with Diploma,5,Yes,Not sure,Yes,False,False,True,False,False,5,1,True,False,False,False,False,False,False,False,False,False,True,False
+944,Kenya,Male,36+,Bungoma,41,Urban area,Interaction with people because of the corona virus,5,Yes,No,Yes,True,True,True,False,True,4,1,True,True,False,False,True,True,True,True,False,True,True,True
+945,Kenya,Male,36+,Machakos,45,Rural area,Corona virus,1,Yes,No,Yes,True,False,False,False,False,5,5,False,False,True,False,False,False,False,False,False,True,False,False
+946,Kenya,Female,26-35,Busia,26,Rural area,Corona virus outbreak,5,Yes,No,Yes,True,False,True,False,True,5,1,False,False,False,False,True,True,True,True,False,True,True,True
+959,Kenya,Male,15-25,Nakuru,24,Rural area,Shortage of water,4,Yes,No,Yes,False,False,True,False,False,4,4,False,False,False,True,False,False,False,False,False,True,False,False
+960,Kenya,Male,15-25,Bomet,25,Rural area,No food,5,No,No,Yes,True,False,False,False,False,3,2,False,False,False,False,True,False,False,False,False,True,False,False
+972,Kenya,Male,26-35,Uasin Gishu,26,Urban area,Money,5,Yes,Yes - tested negative,Yes,False,False,True,False,True,5,3,False,False,False,False,True,True,True,True,False,True,True,True
+973,Kenya,Female,15-25,Kiambu,23,Urban area,Limited travel from one place to another,5,Yes,Yes - tested negative,Yes,True,False,True,False,True,5,4,True,True,False,True,True,True,True,False,False,True,True,True
+976,Kenya,Female,26-35,Meru,35,Urban area,Money,4,Yes,No,No,False,False,False,False,False,5,4,False,False,False,False,True,False,False,False,False,False,True,False
+977,Kenya,Male,15-25,Kericho,23,Rural area,Corona pandemic,4,Yes,Yes - tested negative,Yes,True,True,True,False,True,4,3,False,False,False,True,False,False,False,False,False,False,False,True
+979,Kenya,Female,26-35,Kajiado,31,Urban area,Access to cheap sanitizers,5,Yes,Yes - tested positive,Yes,False,False,True,False,True,5,3,False,False,False,True,True,False,False,False,False,False,True,True
+984,Kenya,Female,15-25,Nairobi,25,Rural area,Unemployment,4,Yes,No,Yes,False,False,True,False,False,5,3,False,False,False,False,True,False,False,False,False,False,False,True
+985,Kenya,Female,36+,Kisumu,39,Urban area,Easy movement without fear of corona,5,Yes,No,Yes,True,True,True,False,False,3,4,True,True,False,False,True,False,True,False,False,True,True,True
+986,Kenya,Female,26-35,Garissa,30,Rural area,Earning a living,5,Yes,No,Yes,False,False,True,False,False,4,4,False,True,False,False,False,False,True,False,False,False,False,False
+987,Kenya,Female,36+,Kiambu,43,Urban area,How to get house rent coz we closed the business where we get income,4,No,Not sure,Yes,False,False,False,False,True,4,1,False,False,False,True,False,False,False,False,False,False,True,True
+992,Kenya,Male,26-35,Narok,29,Rural area,The biggest challenge is this corona virus it has make everything hard to me,5,Yes,Yes - tested negative,Yes,True,True,True,False,False,5,5,True,False,False,True,True,True,True,False,False,True,True,True
+994,Kenya,Male,36+,Siaya,45,Urban area,Airtime,5,Yes,No,Yes,False,False,True,False,False,5,3,True,False,False,False,True,False,False,False,False,False,True,True
+996,Kenya,Female,15-25,Murang'a,20,Rural area,Slow internet connection,5,Yes,Not sure,Yes,True,True,True,False,True,5,2,True,True,False,True,True,True,True,True,False,True,True,True
+997,Kenya,Male,36+,Meru,42,Rural area,Money,5,Yes,No,Yes,True,True,True,False,False,5,1,False,False,False,False,True,False,False,False,False,False,True,True
+999,Kenya,Male,36+,Kisumu,37,Urban area,Business parralised by covid19,5,Yes,Yes - tested negative,Yes,True,False,False,False,False,5,1,False,False,False,False,True,False,True,False,False,True,True,False
+1000,Kenya,Male,36+,Trans Nzoia,45,Urban area,Lack of enough finance,5,No,No,Yes,True,True,True,False,True,5,3,True,False,False,False,True,True,True,True,False,False,True,False
+1002,Kenya,Male,26-35,Narok,27,Urban area,Covid 19,4,Yes,Yes - tested positive,Yes,False,False,True,False,False,4,4,False,False,True,False,False,False,False,False,False,False,True,False
+1007,Kenya,Female,36+,Kiambu,39,Urban area,"Rent due to lockdown of most SMEs,",5,Yes,No,Yes,True,False,False,False,False,5,1,False,False,False,True,False,False,False,False,False,False,False,True
+1010,Kenya,Male,15-25,Kisii,24,Urban area,"Accessing food, and other stuffs like sanitizers are a big problem",5,Yes,Yes - tested positive,Yes,True,True,True,False,False,5,3,True,False,False,False,True,False,True,False,False,True,True,False
+1013,Kenya,Female,15-25,Nairobi,25,Urban area,Covid19,4,Yes,No,Yes,True,True,True,False,True,4,4,True,True,False,True,True,True,True,True,False,True,True,True
+1016,Kenya,Female,36+,Makueni,39,Rural area,"Lack of electricity, near haelth institution",1,No,No,No,False,False,False,False,False,1,1,False,False,False,True,False,False,False,False,False,False,True,False
+1018,Kenya,Female,36+,Kakamega,36,Rural area,Power on off,5,Yes,Not sure,Yes,True,True,True,True,False,5,3,True,False,True,True,False,True,True,True,True,True,True,True
+1020,Kenya,Male,15-25,Turkana,20,Urban area,Am having a family and the place where i always do business is now closed...,5,Yes,Yes - tested negative,Yes,False,False,False,False,True,5,5,True,False,False,False,False,False,False,False,False,False,False,True
+1022,Kenya,Female,15-25,Kitui,24,Rural area,This coronavirus pedemic,5,Yes,No,Yes,True,False,True,False,False,5,1,True,False,False,False,False,False,False,False,False,True,False,False
+1023,Kenya,Female,26-35,Nyeri,34,Rural area,"Food, water and corona",5,Yes,No,Yes,False,False,True,False,False,5,5,False,False,False,True,False,False,False,False,False,True,False,True
+1033,Kenya,Male,26-35,Nyamira,29,Urban area,travelling from one place to another,5,Yes,Yes - tested positive,Yes,True,False,False,False,False,5,5,True,False,False,False,False,False,False,False,False,False,False,True
+1034,Kenya,Female,26-35,Kitui,27,Rural area,Source of income,4,Yes,No,Yes,True,True,True,False,False,4,5,False,False,False,False,True,False,False,False,False,True,True,False
+1036,Kenya,Female,26-35,Busia,27,Rural area,Staying indoor without income,4,No,No,Yes,False,False,True,False,False,4,3,True,False,False,True,False,True,True,False,True,True,False,False
+1037,Kenya,Female,36+,Nairobi,40,Urban area,Corona!!,5,Yes,No,Yes,True,False,True,False,False,5,1,False,False,True,False,False,False,False,False,False,False,True,True
+1041,Kenya,Male,26-35,Mombasa,27,Urban area,Finance,5,Yes,No,Yes,True,False,False,False,False,5,1,True,False,False,False,False,False,True,True,False,True,True,True
+1043,Kenya,Male,15-25,West Pokot,24,Rural area,Lack of capital,5,Yes,Not sure,Yes,False,False,True,False,False,5,5,True,True,False,True,False,False,False,True,False,True,True,True
+1046,Kenya,Female,26-35,Bungoma,26,Rural area,Fear of corona,4,Yes,No,Yes,True,False,False,False,False,3,3,True,False,False,False,False,False,False,False,False,True,False,False
+1061,Kenya,Female,15-25,Machakos,23,Urban area,Getting money for food,5,Yes,No,Yes,True,True,True,False,True,5,3,True,False,False,True,True,False,True,False,False,False,True,True
+1062,Kenya,Male,36+,Kakamega,44,Rural area,No money,5,Yes,No,Yes,False,False,True,False,False,5,5,False,False,False,False,True,False,False,False,False,True,False,False
+1068,Kenya,Female,15-25,Nairobi,22,Urban area,Finance,3,Yes,No,Yes,True,False,False,False,False,2,3,False,False,True,False,False,False,False,False,False,False,False,True
+1069,Kenya,Male,36+,Makueni,43,Rural area,I am idle. The virus scare means I can't go to work,5,Yes,No,Yes,True,False,False,False,False,5,2,False,False,True,False,False,False,True,False,False,False,True,True
+1070,Kenya,Male,15-25,Narok,24,Rural area,Materials to prevent myself and my family from Covid-19,5,Yes,No,No,False,False,False,False,False,5,1,True,False,False,False,False,False,False,False,False,True,False,False
+1072,Kenya,Female,36+,Nairobi,38,Rural area,Staying home,5,No,No,Yes,False,False,True,False,False,5,5,False,False,False,True,False,False,False,False,False,False,False,True
+1076,Kenya,Female,26-35,Nakuru,34,Urban area,Quarantine,5,Yes,No,Yes,True,True,True,False,False,5,5,True,True,True,True,True,True,True,True,True,True,True,True
+1077,Kenya,Male,26-35,Elgeyo-Marakwet,29,Rural area,Job seeking,4,Yes,No,Yes,True,False,False,False,False,5,2,True,False,False,False,False,False,False,False,False,False,False,True
+1079,Kenya,Male,15-25,Kilifi,21,Rural area,Corruption,3,Yes,Yes - tested negative,Yes,True,True,True,False,True,2,3,True,False,True,False,True,True,True,False,False,False,True,True
+1085,Kenya,Female,15-25,Nairobi,25,Urban area,Not Having A Job,5,Yes,No,Yes,True,False,False,False,False,5,1,False,False,False,True,False,False,True,False,False,False,False,True
+1086,Kenya,Female,15-25,Kitui,25,Rural area,Fearing corona virus,5,Yes,No,Yes,False,False,False,False,True,5,5,False,False,False,False,True,False,False,False,False,False,False,True
+1088,Kenya,Male,15-25,Baringo,21,Urban area,Maswali mingi muache na mlete iyo credo,4,No,Yes - tested positive,Yes,False,False,True,False,False,1,1,False,False,False,True,False,True,False,False,False,False,False,False
+1089,Kenya,Female,26-35,Kakamega,33,Urban area,The biggest challenge today is to stay at home by 7,5,Yes,No,Yes,False,False,False,False,True,5,5,False,False,True,False,False,False,False,False,False,False,True,False
+1093,Kenya,Male,36+,Kakamega,41,Urban area,Lack of employment and lack of money,4,No,No,Yes,False,False,True,False,False,4,4,False,False,False,True,False,False,False,False,False,False,False,True
+1095,Kenya,Female,36+,Nyamira,38,Rural area,"Getting the daily bread,the economic crisis is high",5,No,No,Yes,True,False,True,False,True,5,1,True,False,False,False,True,True,True,True,False,True,True,True
+1097,Kenya,Male,26-35,Nyeri,28,Urban area,Electricity blackout,4,Yes,Yes - tested negative,Yes,True,False,True,False,True,5,3,True,False,False,True,False,False,True,False,False,True,True,True
+1102,Kenya,Male,15-25,Meru,22,Rural area,Outbreak of Corona virua,3,No,Yes - tested negative,Yes,False,False,True,False,False,3,3,False,True,False,False,False,False,False,False,False,False,True,False
+1104,Kenya,Male,26-35,Kisii,29,Rural area,Coronavirus challenge and lockdown farmine,5,Yes,No,Yes,True,False,False,False,False,5,4,False,False,True,False,False,False,False,False,False,True,False,False
+1106,Kenya,Female,15-25,Elgeyo-Marakwet,25,Rural area,How to fight against covid_19,1,Yes,Yes - tested positive,Yes,False,False,False,False,True,1,5,False,False,True,False,False,False,False,False,False,True,False,False
+1108,Kenya,Male,26-35,Taita-Taveta,28,Rural area,Money,5,No,No,Yes,False,False,True,False,False,5,3,False,False,False,False,True,False,True,False,False,False,True,True
+1110,Kenya,Male,15-25,Murang'a,23,Rural area,"My business closed down,no source income anymore",5,Yes,No,Yes,False,False,False,False,True,5,3,False,False,False,False,True,False,True,False,False,True,True,True
+1117,Kenya,Female,15-25,Homa Bay,25,Urban area,Covid19,5,Yes,No,Yes,False,False,True,False,False,5,4,False,False,False,False,True,True,True,False,False,True,True,True
+1120,Kenya,Male,26-35,Meru,29,Rural area,Earning extra income since I do hustling,5,Yes,No,Yes,True,True,True,False,False,5,3,True,True,False,False,True,False,True,False,False,True,True,True
+1137,Kenya,Male,15-25,Siaya,22,Urban area,Prices of goods are rising while there's no income due to the Corona virus challenge,5,Yes,No,Yes,True,True,True,False,True,4,3,True,False,False,True,True,False,True,False,False,True,True,False
+1142,Kenya,Male,36+,Garissa,41,Rural area,Food,5,No,No,Yes,False,False,False,False,True,5,3,True,False,False,False,False,False,False,False,False,True,False,False
+1143,Kenya,Male,26-35,Migori,26,Urban area,Financial,3,Yes,Yes - tested negative,Yes,False,True,True,False,True,3,2,True,False,False,False,False,False,True,False,False,False,True,True
+1148,Kenya,Male,26-35,Makueni,29,Urban area,Working from home,5,No,No,Yes,True,False,False,False,True,4,2,True,False,False,False,False,True,True,True,False,False,True,True
+1161,Kenya,Female,15-25,Nairobi,25,Rural area,Insufficient funds,5,No,No,Yes,False,False,False,False,True,5,2,False,True,False,False,False,False,False,False,False,False,False,True
+1173,Kenya,Female,15-25,Nairobi,24,Urban area,accessing foodstuff,5,Yes,No,Yes,True,True,True,False,False,5,3,True,False,False,False,True,True,True,False,False,True,True,True
+1174,Kenya,Male,36+,Kakamega,42,Rural area,"Poverty, kind of life with no access to Gvt resorces.",5,Yes,No,Yes,False,False,True,False,False,5,1,True,False,False,False,False,False,False,False,False,True,False,False
+1177,Kenya,Male,15-25,Bomet,24,Rural area,Employment,5,No,No,Yes,True,False,False,False,False,5,2,True,False,False,False,False,False,False,False,False,True,False,False
+1179,Kenya,Female,36+,Kakamega,41,Rural area,My biggest challenge is that my business is on stagnant due to Corona virus tention,5,No,No,Yes,True,False,False,False,False,5,3,True,False,False,False,False,False,False,False,False,False,False,True
+1183,Kenya,Male,15-25,Uasin Gishu,21,Urban area,Money,5,No,Yes - tested negative,Yes,False,False,True,False,False,5,1,False,False,False,False,True,False,False,False,False,False,True,False
+1192,Kenya,Female,26-35,Turkana,33,Rural area,Food and water,4,Yes,No,Yes,False,False,True,False,False,5,1,False,False,False,True,False,False,False,False,False,False,True,False
+1208,Kenya,Male,36+,Mombasa,36,Urban area,Anxiety,5,Yes,Yes - tested positive,Yes,True,False,False,False,False,5,1,False,False,False,True,False,False,False,False,False,False,False,True
+1209,Kenya,Male,36+,Meru,36,Rural area,Job,1,Yes,No,Yes,True,True,True,False,True,1,5,True,False,True,True,False,True,True,False,False,True,True,True
+1213,Kenya,Male,26-35,Nakuru,33,Urban area,Fear and transport,5,Yes,No,Yes,False,False,True,False,False,5,3,False,False,False,True,False,False,False,False,False,True,False,True
+1235,Kenya,Male,26-35,Meru,28,Urban area,Employment,5,Yes,No,Yes,False,False,True,False,False,5,3,False,True,False,False,False,False,False,False,False,False,False,True
+1236,Kenya,Female,36+,Homa Bay,39,Rural area,Lack of water,5,Yes,No,Yes,False,False,True,False,False,5,2,True,False,False,False,False,False,False,False,False,True,False,False
+1242,Kenya,Male,26-35,Makueni,26,Rural area,Covid 19 pandemic,5,Yes,No,Yes,True,True,True,False,True,5,5,True,True,False,True,True,False,True,False,False,True,False,False
+1247,Kenya,Male,15-25,Nandi,25,Rural area,Not yet,5,Yes,No,Yes,False,False,True,False,False,5,5,True,False,False,True,False,False,False,False,False,False,False,True
+1256,Kenya,Male,36+,Kitui,43,Rural area,Covid 19,5,No,No,Yes,True,False,False,False,False,5,2,False,False,False,True,False,False,False,False,False,False,False,True
+1270,Kenya,Female,26-35,Siaya,27,Rural area,Capital for investment,5,No,No,Yes,True,False,False,False,False,5,1,True,False,False,False,False,False,False,False,False,True,False,False
+1271,Kenya,Male,26-35,Kilifi,34,Urban area,Water,2,Yes,Yes - tested positive,Yes,True,False,False,False,False,1,3,True,False,False,False,False,False,False,False,False,False,True,False
+1273,Kenya,Male,36+,Machakos,37,Urban area,How Corona virus infection increases,1,No,Not sure,Yes,False,False,True,False,False,1,1,True,False,False,False,False,False,False,False,False,False,False,True
+1275,Kenya,Male,26-35,Mombasa,30,Urban area,Job,5,Yes,Yes - tested positive,Yes,False,False,True,False,False,5,2,False,False,False,False,True,False,False,False,False,False,False,True
+1276,Kenya,Female,36+,Narok,42,Rural area,Health,5,Yes,No,Yes,True,True,True,False,False,3,3,True,False,True,True,True,False,False,False,False,True,True,False
+1280,Kenya,Male,26-35,Trans Nzoia,27,Rural area,The outbreak of covid-19 and the uncertainties it carries with it on human health,5,No,No,Yes,True,True,True,False,True,5,5,False,False,True,False,False,False,False,False,False,True,False,False
+1284,Kenya,Male,36+,Kilifi,36,Urban area,Cash and job,5,Yes,No,Yes,True,False,False,False,False,5,1,True,False,False,False,False,False,False,False,False,True,False,False
+1311,Kenya,Male,36+,Siaya,49,Rural area,The Corona19 infection drawback in our economy.,5,Yes,No,Yes,False,False,True,False,False,5,1,False,False,False,False,True,True,False,False,False,False,True,True
+1315,Kenya,Male,15-25,Machakos,24,Urban area,Attending work thus not earning,5,Yes,No,Yes,True,True,True,False,True,5,2,True,False,False,False,True,True,True,True,False,False,True,True
+1316,Kenya,Male,15-25,Mandera,21,Urban area,I cannot get out of home,5,No,No,Yes,False,False,True,False,False,2,1,True,False,False,False,False,False,False,False,False,False,True,False
+1319,Kenya,Female,26-35,Kilifi,27,Rural area,Getting to shop as the covid-19 outbreak and security on duty patrols,5,Yes,No,Yes,True,True,True,False,False,5,1,True,False,False,False,False,False,True,True,False,True,True,False
+1327,Kenya,Male,26-35,Nakuru,27,Urban area,Lack of job due to corona outbreak,5,Yes,No,Yes,True,True,True,False,False,5,3,True,True,False,False,True,False,True,False,False,True,False,True
+1328,Kenya,Male,26-35,Meru,29,Urban area,To commute to work,5,Yes,No,Yes,True,False,False,False,False,5,1,True,False,False,False,False,False,False,False,False,False,True,False
+1330,Kenya,Male,36+,Kisumu,39,Rural area,accessing basic requirements for mostly we are chased by police in market.,5,Yes,Not sure,Yes,True,False,True,False,False,5,2,False,True,False,False,False,False,False,True,False,False,False,False
+1332,Kenya,Male,36+,Garissa,37,Urban area,Lack of job,1,Yes,No,Yes,True,False,False,False,False,1,1,False,False,False,False,True,False,False,False,False,False,False,True
+1333,Kenya,Male,26-35,Tana River,34,Urban area,How to stay away from corrona infections,5,Yes,No,Yes,True,True,True,True,True,4,3,True,False,False,False,False,False,False,False,True,True,True,True
+1334,Kenya,Male,26-35,Meru,32,Rural area,Lack of essential commodities,5,Yes,Not sure,Yes,True,False,False,False,False,5,3,False,False,False,False,True,False,False,False,False,False,True,False
+1337,Kenya,Female,36+,Machakos,38,Rural area,Electricity,5,No,No,Yes,True,False,True,False,True,5,4,False,False,False,False,True,True,False,False,False,True,True,True
+1338,Kenya,Male,26-35,Nandi,28,Urban area,More work load,5,Yes,No,Yes,False,False,False,False,True,5,1,True,False,False,False,False,False,False,False,False,True,False,False
+1350,Kenya,Female,26-35,Bungoma,26,Rural area,Lack of good road,5,Yes,Yes - tested negative,Yes,True,False,False,False,False,5,5,False,False,False,True,False,False,False,False,False,True,False,False
+1354,Kenya,Male,15-25,Makueni,22,Rural area,Lack of job opportunity,5,Yes,No,Yes,True,True,True,False,True,5,3,True,True,False,True,True,False,True,False,False,True,True,True
+1355,Kenya,Female,36+,Lamu,47,Urban area,Low income,5,Yes,No,Yes,True,True,True,False,False,4,1,False,False,False,False,True,True,True,True,False,True,True,True
+1377,Kenya,Female,15-25,Nairobi,24,Rural area,Corona virus disease,5,No,Not sure,Yes,False,False,True,False,False,5,4,True,False,False,False,False,False,False,False,False,True,False,False
+1378,Kenya,Male,36+,Machakos,37,Urban area,Daily living  for my family,5,Yes,No,Yes,False,False,True,False,False,5,3,False,False,False,False,True,False,False,False,False,True,False,False
+1379,Kenya,Male,15-25,Siaya,23,Rural area,My biggest challenge is the source of income.,5,No,No,Yes,True,False,True,False,False,5,3,False,False,True,True,True,True,True,False,True,True,False,False
+1382,Kenya,Male,36+,Kwale,36,Rural area,Corona curfew,5,No,No,No,False,False,False,False,False,5,1,False,False,False,False,True,True,True,True,False,True,True,True
+1399,Kenya,Male,26-35,Wajir,31,Urban area,Very hot weather,5,Yes,Not sure,Yes,True,False,True,False,True,5,3,True,False,False,False,False,False,True,False,False,False,True,True
+1400,Kenya,Male,15-25,Kirinyaga,24,Urban area,Food,5,Yes,Yes - tested positive,Yes,False,False,False,False,True,5,5,True,False,False,False,True,False,False,False,False,False,True,False
+1403,Kenya,Female,15-25,Migori,24,Rural area,The coronavirus,3,No,No,No,False,False,False,False,False,5,5,False,False,False,False,True,False,False,False,False,False,False,True
+1409,Kenya,Female,36+,Siaya,39,Rural area,"Accessing food is hell, no income",5,Yes,No,Yes,True,True,True,False,False,5,1,True,False,False,False,False,False,True,False,False,False,True,True
+1410,Kenya,Male,36+,Machakos,59,Rural area,Coronavirus,1,Yes,No,Yes,True,False,False,False,False,1,1,False,False,False,False,True,False,False,False,False,True,False,False
+1417,Kenya,Male,26-35,Wajir,29,Urban area,Luck of water,2,Yes,No,No,False,False,False,False,False,2,5,False,False,True,False,False,False,False,False,False,True,False,False
+1422,Kenya,Female,15-25,Kisii,22,Rural area,Protecting and maintaining hygiene to avoid getting Corona virus,5,No,No,Yes,True,False,False,False,False,5,3,True,False,False,False,True,False,True,False,False,False,False,True
+1433,Kenya,Male,15-25,Nyamira,25,Rural area,Money due to unemp loymet and closure of menial jobs,5,Yes,Yes - tested negative,Yes,False,False,False,False,True,4,3,False,False,False,False,True,True,True,True,False,True,True,False
+1435,Kenya,Female,15-25,Nairobi,23,Rural area,To pay rent bocoz am not currently working,5,Yes,Yes - tested negative,Yes,True,False,False,False,False,5,5,False,False,True,False,False,False,False,False,False,True,False,False
+1439,Kenya,Female,26-35,Bomet,28,Rural area,Walking with fear,5,Yes,No,Yes,True,False,False,False,False,4,2,True,False,False,False,False,False,False,False,False,False,True,False
+1440,Kenya,Female,36+,Embu,38,Rural area,Food,5,Yes,No,Yes,True,False,False,False,False,5,2,False,False,True,False,False,False,False,False,False,True,False,False
+1443,Kenya,Male,26-35,Uasin Gishu,26,Urban area,Getting daily bread,4,Yes,No,No,False,False,False,False,False,3,4,True,False,False,False,True,False,False,False,False,False,True,False
+1448,Kenya,Male,36+,Kisii,55,Rural area,Knowing Christ,4,Yes,No,Yes,False,False,False,True,False,4,4,True,False,False,False,False,True,True,False,False,True,True,True
+1453,Kenya,Female,36+,Narok,41,Rural area,Lack  of  food  items  due  to  finance.,5,Yes,No,Yes,True,False,True,False,False,3,3,True,False,True,False,True,False,True,False,False,True,True,False
+1462,Kenya,Female,15-25,Homa Bay,23,Rural area,Heavy rains with a lot of mad,5,Yes,Yes - tested positive,Yes,True,False,False,False,False,5,3,True,False,False,False,False,False,False,False,False,True,False,False
+1487,Kenya,Male,15-25,Meru,24,Urban area,Food,5,Yes,No,Yes,False,False,False,False,True,5,1,False,False,True,False,False,False,False,False,True,False,False,False
+1503,Kenya,Male,15-25,Kakamega,25,Rural area,Learning to ride a tractor,5,Yes,No,Yes,True,True,True,True,True,5,2,False,False,False,False,True,True,True,True,False,True,True,True
+1542,Kenya,Male,15-25,Mandera,20,Urban area,Electricity access,5,Yes,No,Yes,True,False,False,False,False,3,3,True,False,False,False,False,False,False,False,False,True,False,False
+1543,Kenya,Female,26-35,Nairobi,29,Urban area,No enough food,4,Yes,No,Yes,True,False,False,False,False,5,2,True,False,False,False,False,False,False,False,False,True,False,False
+1545,Kenya,Female,36+,Makueni,40,Rural area,to fight against corona,5,No,Yes - tested negative,Yes,False,False,False,False,True,5,5,False,False,True,False,False,False,False,False,False,False,False,True
+1547,Kenya,Female,36+,Kirinyaga,43,Rural area,Lack of cashflow for my small business due to the corona outbreak.,3,No,No,Yes,False,False,True,False,False,5,1,False,False,False,False,True,False,False,False,False,False,False,True
+1557,Kenya,Female,26-35,Vihiga,33,Rural area,Corona pandermic,4,Yes,Yes - tested positive,Yes,False,False,False,False,True,4,3,True,False,False,False,False,False,True,False,False,False,False,False
+1577,Kenya,Female,36+,Nairobi,39,Urban area,Means of transport,4,No,No,Yes,True,False,False,False,False,4,1,True,False,False,False,False,False,False,False,False,False,False,True
+1581,Kenya,Male,15-25,Vihiga,19,Rural area,unable to manage my upkeeps,5,No,Not sure,Yes,False,False,True,False,False,5,5,False,False,False,True,False,False,True,False,False,False,False,False
+1586,Kenya,Male,15-25,Mandera,22,Urban area,is for coronavius,1,Yes,Yes - tested negative,Yes,False,False,True,False,False,1,5,True,False,False,False,False,False,False,False,False,False,True,False
+1598,Kenya,Male,15-25,Wajir,20,Rural area,Lack of money,4,No,No,Yes,False,False,True,False,False,2,3,True,False,False,False,False,False,False,False,False,False,True,False
+1606,Kenya,Male,15-25,Turkana,23,Urban area,Visitor's,5,Yes,Yes - tested negative,Yes,True,False,False,False,False,5,2,False,False,False,False,True,False,False,False,False,False,True,False
+1627,Kenya,Female,36+,Nairobi,42,Urban area,Water,3,Yes,Yes - tested negative,Yes,False,False,True,False,False,4,3,False,False,True,False,False,False,True,False,False,False,False,False
+1659,Kenya,Female,15-25,Nairobi,25,Urban area,Mode of Transport,5,Yes,No,Yes,True,False,False,False,False,5,1,False,False,False,True,False,False,False,False,False,False,False,True
+1681,Kenya,Female,36+,Laikipia,39,Rural area,Lack of job opportunities,5,No,Not sure,Yes,False,False,True,False,False,2,1,False,False,False,False,True,True,False,False,False,False,False,False
+1693,Kenya,Female,36+,Nyamira,38,Rural area,getting money for accomodation of my family due to stoppage of my work due to the corona pandemic,5,Yes,Yes - tested positive,Yes,False,False,True,False,False,5,3,True,False,False,False,False,False,False,False,False,False,False,True
+1699,Kenya,Female,26-35,Elgeyo-Marakwet,29,Rural area,Money,5,No,Yes - tested positive,Yes,False,False,True,False,False,5,4,True,False,False,False,False,False,False,True,False,True,True,True
+1716,Kenya,Male,36+,Migori,45,Rural area,Covid 19,5,Yes,Yes - tested positive,Yes,True,False,False,False,False,5,5,True,False,False,False,False,False,False,False,False,False,False,True
+1756,Kenya,Male,15-25,Trans Nzoia,24,Urban area,Source of food during quarantine period,4,Yes,No,Yes,False,False,True,False,False,5,1,False,False,False,False,True,False,False,False,False,False,False,True
+1774,Kenya,Male,15-25,Baringo,21,Urban area,Internet connection to do online learning,5,Yes,Yes - tested positive,No,False,False,False,False,False,4,3,False,False,False,False,True,False,False,False,True,False,False,False
+1784,Kenya,Male,36+,Kwale,37,Rural area,Daily bread,5,Yes,Not sure,Yes,True,True,True,False,True,5,1,True,False,False,False,False,False,False,False,False,False,True,False
+1817,Kenya,Male,36+,Garissa,49,Rural area,Lack of basic needs and very hot sun,5,Yes,No,Yes,False,False,True,False,False,5,1,False,False,False,True,False,False,False,False,False,True,False,False
+1834,Kenya,Female,36+,Nairobi,37,Urban area,Bad roads,5,No,Not sure,Yes,False,False,True,False,False,5,1,False,False,False,False,True,False,False,False,False,False,True,False
+1849,Kenya,Female,36+,Kajiado,42,Rural area,agronomy advice,5,Yes,No,Yes,True,False,False,False,False,5,3,False,False,False,False,True,False,False,False,False,False,False,True
+1855,Kenya,Female,26-35,Bomet,27,Urban area,Corona virus,4,Yes,Yes - tested negative,Yes,True,False,False,False,False,3,5,True,False,False,False,False,False,False,False,False,True,False,False
+1856,Kenya,Female,36+,Kwale,38,Urban area,Sanitizer,5,Yes,No,Yes,False,False,True,False,False,5,1,True,False,False,False,False,False,False,False,False,False,False,True
+1860,Kenya,Female,15-25,Busia,24,Rural area,Lack of food,5,No,No,Yes,False,False,True,False,False,3,5,False,False,True,False,False,False,False,False,False,True,False,False
+1862,Kenya,Male,36+,Embu,40,Rural area,money for food shopping,5,No,No,Yes,True,False,False,False,False,5,5,False,False,False,False,True,False,False,False,False,True,False,False
+1865,Kenya,Male,15-25,Tharaka-Nithi,23,Urban area,LACK OF MONEY TO CATER MY NEEDS,5,Yes,Not sure,Yes,False,False,False,False,True,5,5,False,False,True,False,False,False,True,False,False,False,False,False
+1868,Kenya,Female,36+,Laikipia,56,Rural area,Stress of corona virus and food for children in case this disease continue,5,No,Yes - tested positive,Yes,True,False,False,False,False,3,1,True,False,False,False,False,True,False,False,False,False,False,True
+1869,Kenya,Female,36+,Kericho,42,Rural area,Getting food,5,Yes,No,Yes,True,False,False,False,False,5,2,False,False,True,False,False,False,False,False,False,True,False,False
+1870,Kenya,Male,36+,Migori,43,Rural area,Electricity,1,Yes,No,Yes,True,False,False,False,True,4,4,True,False,False,False,False,False,False,False,False,True,False,False
+1872,Kenya,Male,36+,Kiambu,39,Urban area,Covid 19 virus,5,Yes,No,Yes,False,False,True,False,False,5,5,False,False,True,False,False,False,False,False,False,False,False,True
+1883,Kenya,Female,36+,Homa Bay,49,Rural area,lack of clean water and food problem,5,Yes,Not sure,Yes,False,False,True,False,False,5,1,False,False,True,False,False,False,False,False,False,True,False,False
+1898,Kenya,Male,36+,Kilifi,41,Urban area,Economy,5,Yes,Yes - tested positive,Yes,False,False,True,False,False,5,5,False,False,True,False,False,False,False,False,False,True,False,False
+1899,Kenya,Female,36+,Makueni,36,Rural area,Not be able to work because of pandemic,5,Yes,No,Yes,True,False,False,False,False,5,1,False,False,True,False,False,False,False,False,False,False,False,True
+1902,Kenya,Female,36+,Nairobi,39,Urban area,Finance,4,No,No,No,False,False,False,False,False,5,3,False,False,False,True,False,False,True,False,False,False,True,True
+1904,Kenya,Male,15-25,Isiolo,22,Urban area,Paying for my livelihood,5,No,Yes - tested negative,Yes,False,False,True,False,False,5,1,False,False,True,False,False,False,False,False,False,False,False,True
+1906,Kenya,Female,15-25,Nairobi,22,Urban area,Corona virus,5,Yes,Yes - tested positive,Yes,False,False,True,False,False,5,5,True,False,False,False,False,False,False,True,False,False,False,False
+1909,Kenya,Male,36+,Kakamega,37,Rural area,Financial,5,Yes,No,Yes,False,False,True,False,False,2,1,False,False,False,True,False,True,True,False,False,True,True,True
+1910,Kenya,Female,15-25,Bungoma,24,Urban area,I don't earn anything and yet am a breadwinner,5,Yes,Not sure,Yes,False,False,True,False,False,5,1,False,False,True,False,False,True,False,False,False,True,False,True
+1911,Kenya,Female,15-25,Nairobi,21,Rural area,Lack of money. Financial constraints,4,Yes,Yes - tested negative,Yes,True,False,False,False,False,5,3,False,False,False,False,True,True,False,False,False,False,False,False
+1912,Kenya,Female,36+,Kakamega,49,Rural area,Source Of Electricity,5,Yes,No,Yes,False,True,False,False,False,5,5,False,False,True,False,False,False,False,False,False,True,False,False
+1915,Kenya,Female,36+,Kakamega,42,Rural area,Finance,5,Yes,No,Yes,False,False,True,False,False,5,1,False,False,False,False,True,False,False,False,False,False,True,False
+1918,Kenya,Male,36+,Murang'a,41,Rural area,Job,5,Yes,No,Yes,False,False,False,True,False,5,5,False,False,False,False,True,False,False,False,False,False,True,False
+1931,Kenya,Female,26-35,Bomet,31,Rural area,Pay bills,5,Yes,Not sure,Yes,False,False,False,False,True,5,4,False,False,True,False,False,True,False,False,False,False,False,False
+1932,Kenya,Female,36+,Busia,67,Rural area,Effects Of Covid 19,5,Yes,Not sure,Yes,False,False,True,False,False,5,1,False,False,False,True,False,False,False,False,False,False,True,False
+1934,Kenya,Male,36+,Busia,50,Urban area,Economy constraints,1,No,No,Yes,False,False,True,False,False,2,1,False,False,False,True,False,False,False,False,False,False,True,False
+2077,Kenya,Male,36+,Meru,38,Rural area,Finances and affordable health care.,5,Yes,No,No,False,False,False,False,False,5,2,False,False,True,False,False,False,False,False,False,False,True,False
+2080,Kenya,Male,36+,Kiambu,36,Urban area,"Staying indoor, but I have to,since corona virus is real.",5,Yes,No,Yes,False,False,True,False,False,5,4,False,False,False,False,True,False,False,False,False,True,False,False
+2088,Kenya,Female,36+,Embu,44,Rural area,My biggest challenge is businesses are so down due to corona outbreak.,5,Yes,Yes - tested positive,Yes,False,False,False,False,True,5,1,True,False,False,False,False,False,False,False,False,False,True,False
+2091,Kenya,Male,36+,Kitui,41,Rural area,my biggest challenge is job.,5,Yes,Yes - tested positive,Yes,False,False,True,False,False,5,1,False,False,False,True,False,False,False,False,False,True,False,False
+2095,Kenya,Male,26-35,Turkana,28,Rural area,Corona,5,No,No,Yes,False,False,False,True,False,1,5,False,False,False,False,True,False,False,False,False,False,True,False
+2097,Kenya,Male,36+,Mombasa,46,Urban area,Financial restraint,5,No,No,Yes,True,False,False,False,False,5,5,False,False,False,False,True,False,False,False,False,False,False,True
+2102,Kenya,Male,26-35,Murang'a,32,Urban area,Income,5,Yes,No,Yes,False,False,True,False,False,2,2,False,False,False,False,True,False,False,False,False,True,False,False
+2103,Kenya,Male,36+,Kericho,38,Rural area,The Covid 19,4,Yes,No,Yes,True,False,True,False,False,4,3,True,False,False,False,False,False,False,False,False,True,False,False
+2105,Kenya,Male,36+,Kwale,51,Rural area,Daily income,5,Yes,No,Yes,False,False,True,False,False,2,5,False,False,False,False,True,False,False,False,False,False,True,False
+2125,Kenya,Female,26-35,Kajiado,31,Urban area,Water,5,Yes,No,Yes,False,False,True,False,False,4,3,False,False,False,False,True,False,False,False,False,False,False,True
+2142,Kenya,Female,15-25,Nairobi,22,Urban area,Low income in business due to the virus,5,Yes,No,Yes,False,False,True,False,False,5,3,False,False,False,False,True,False,False,False,False,False,False,True
+2150,Kenya,Male,36+,Mombasa,39,Urban area,Covid19,5,Yes,No,Yes,False,False,False,False,True,5,1,False,True,False,False,False,False,False,False,False,False,True,False
+2153,Kenya,Male,26-35,Turkana,34,Urban area,Availability of water supply by the company concern,5,No,No,Yes,False,False,True,False,False,5,5,True,False,False,False,False,False,True,False,False,False,False,False
+2161,Kenya,Female,36+,Kisumu,36,Rural area,Am self employed and there is no business now,5,Yes,No,Yes,False,False,True,False,False,5,5,True,False,False,False,False,False,False,False,False,False,False,True
+2162,Kenya,Female,26-35,Nairobi,32,Urban area,Lack of finance,5,Yes,No,Yes,True,False,False,False,False,5,2,False,False,False,False,True,False,False,True,False,False,False,False
+2190,Kenya,Female,26-35,Kajiado,27,Urban area,I don't have a mask,5,No,Yes - tested positive,Yes,False,False,False,False,True,5,5,False,False,False,False,True,False,False,False,False,False,False,True
+2200,Kenya,Male,36+,Kisumu,49,Rural area,Cufew,5,Yes,No,Yes,True,False,False,False,False,5,3,False,False,True,False,False,False,False,False,False,True,False,False
+2207,Kenya,Male,36+,Embu,48,Urban area,Lack of medicene,1,Yes,No,No,False,False,False,False,False,5,1,False,False,False,False,True,False,False,False,False,False,False,True
+2212,Kenya,Male,36+,Makueni,47,Urban area,Source of income,5,Yes,No,Yes,True,False,False,False,False,5,3,False,False,False,False,True,False,False,False,False,True,False,False
+2215,Kenya,Male,15-25,Vihiga,20,Urban area,Trying to avoid being in contact with since I was travelling.,5,No,Not sure,Yes,False,False,True,False,False,3,3,False,False,False,False,True,False,False,False,False,False,True,False
+2220,Kenya,Male,36+,Kakamega,42,Rural area,No Enough Masks And Sernitizers In Our Comunity,4,Yes,Yes - tested positive,Yes,True,False,False,False,False,5,1,True,False,False,False,False,False,False,False,False,True,False,False
+2223,Kenya,Female,15-25,Nairobi,22,Urban area,Financial,5,Yes,No,Yes,False,False,True,False,False,5,2,False,False,True,False,False,False,False,False,False,False,True,False
+2225,Kenya,Female,36+,Nairobi,38,Urban area,Food,5,Yes,Not sure,Yes,True,False,False,False,False,5,5,False,False,False,False,True,False,False,False,False,True,False,False
+2227,Kenya,Female,36+,Kiambu,37,Rural area,Staying at home due to Covid pandemic,5,Yes,No,Yes,False,False,False,False,True,5,1,True,False,False,False,False,False,True,True,False,True,True,True
+2243,Kenya,Male,36+,Kwale,53,Rural area,Coronavirus,5,Yes,Yes - tested positive,Yes,False,False,False,False,True,5,5,False,False,False,False,True,False,False,False,False,False,False,True
+2245,Kenya,Female,26-35,Mandera,32,Rural area,Lack of economy,3,Yes,No,Yes,True,False,False,False,False,3,2,False,False,False,False,True,False,False,False,False,False,True,False
+2254,Kenya,Male,36+,Embu,39,Urban area,Source of income,4,Yes,No,Yes,False,False,True,False,False,4,1,False,False,False,False,True,False,True,False,False,False,False,False
+2265,Kenya,Male,36+,Lamu,43,Rural area,Insuficient Food,5,Yes,No,Yes,False,False,True,False,False,5,5,False,False,False,False,True,False,True,False,False,False,False,False
+2267,Kenya,Male,36+,Garissa,36,Urban area,Staying too much indoor s,5,No,No,Yes,False,False,False,False,True,5,5,False,False,False,True,False,False,False,False,False,True,False,False
+2272,Kenya,Male,36+,Bungoma,39,Rural area,Getting food for today while am in self quarantine.,5,Yes,No,Yes,True,False,False,False,False,5,3,False,False,False,True,False,False,False,False,False,True,False,True
+2282,Kenya,Female,36+,Kiambu,39,Rural area,IS TO STAY HOME WITHOUT GOING JOB WE SUFFER DUE TO THIS COLONA VIRUS,1,Yes,No,Yes,True,False,False,False,False,2,1,False,False,True,False,False,False,True,False,False,False,False,False
+2287,Kenya,Female,15-25,Nairobi,24,Urban area,Job,5,Yes,Not sure,Yes,False,False,True,False,False,5,1,False,False,False,True,False,False,False,False,False,False,False,True
+2288,Kenya,Female,36+,Kiambu,39,Rural area,Getting to the market or work; afraid to aboard public transport,5,No,Yes - tested positive,Yes,False,True,False,False,False,5,5,False,True,False,False,False,False,False,False,False,False,False,True
+2291,Kenya,Female,26-35,Turkana,31,Rural area,"Blackouts, it is so rampant and almost on daily basis",5,Yes,No,Yes,False,False,True,False,False,5,1,False,False,False,False,True,False,True,False,False,False,True,True
+2299,Kenya,Male,36+,Homa Bay,44,Rural area,Corona virus,5,Yes,Yes - tested negative,Yes,False,False,True,False,False,2,2,True,False,False,False,False,True,False,False,False,False,False,False
+2306,Kenya,Male,36+,Murang'a,42,Urban area,My biggest is raising and kids with the current economic situation and paying accommodation is another,5,No,No,Yes,False,False,True,False,False,5,1,True,False,False,False,False,False,False,False,False,False,False,True
+2318,Kenya,Female,36+,Kiambu,38,Urban area,Getting money to buy food,5,No,Not sure,Yes,False,False,True,False,False,5,1,False,False,False,True,False,False,False,False,False,False,True,False
+2319,Kenya,Male,36+,Bungoma,53,Rural area,Covid 19,5,Yes,No,Yes,True,False,False,False,False,5,1,False,False,False,True,False,False,False,False,False,False,True,False
+2322,Kenya,Male,15-25,Baringo,25,Rural area,Bad road connection,4,No,No,Yes,True,False,False,False,False,5,5,False,False,True,False,False,False,False,False,False,False,False,True
+2325,Kenya,Female,36+,Kilifi,46,Urban area,Quarantine,5,Yes,No,Yes,False,False,False,False,True,5,1,False,False,False,False,True,False,True,False,False,False,False,False
+2328,Kenya,Female,36+,Nairobi,53,Rural area,Lack of job,5,Yes,No,Yes,True,False,False,False,False,5,5,True,False,False,False,False,False,False,False,False,True,False,False
